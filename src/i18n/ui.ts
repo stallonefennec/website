@@ -10,7 +10,7 @@ export const ui = {
     'nav.home': '首页',
     'nav.about': '关于',
     'nav.podcast': '播客',
-    'main.description': '一档由两位网上邻居创办的',
+    'main.description': '一档由stallone创办的',
     'main.plan': '播客计划。',
     'main.englishLearning': '英语学习',
     'main.tech': '泛科技',
